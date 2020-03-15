@@ -1,0 +1,16 @@
+Assets/AssetStoreTools/
+*.csproj
+*.sln
+.vs/
+wuss_index.php
+Assets/AssetStoreTools.meta
+Library/
+ProjectSettings/
+UnityPackageManager/
+obj/
+Assets/myBad Studios/WUSS/
+Assets/myBad Studios/Localisation/
+Assets/myBad Studios/Core/
+Assets/myBad Studios/Localisation.meta
+Assets/myBad Studios/Core.meta
+Assets/myBad Studios/WUSS.meta
